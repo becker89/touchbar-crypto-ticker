@@ -1,0 +1,8 @@
+set json to (do shell script "curl https://api.bitfinex.com/v2/ticker/tBTCUSD")
+
+tell application "JSON Helper"
+	set result to read JSON from json
+	set price to item 7 of result as number
+end tell
+
+set result_string to "$" & price & ""
