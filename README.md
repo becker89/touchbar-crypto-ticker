@@ -6,6 +6,7 @@ Currently supported coins:
 - **Ethereum** - Pulled from Bitfinex.com API.
 - **Litecoin** - Pulled from Bitfinex.com API.
 - **Neo** - Pulled from Bittrex.com API
+- **TenX** - Pulled from Bittrex.com API
 
 # How-to
 1. Download and install [Better Touch Tool](https://www.boastr.net/downloads/). It allows you to modify your touch bar and other cool things. It's a 45-day trial but "pay what you like" to register.
