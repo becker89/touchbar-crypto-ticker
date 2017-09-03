@@ -1,6 +1,8 @@
 # touchbar crypto-ticker
 Crypto stock market prices for your Macbook Pro touch bar! Values updated every 30 seconds.
 
+![Screenshot](example.jpg)
+
 Currently supported coins: 
 - **Bitcoin** - Pulled from Bitfinex.com API.
 - **Ethereum** - Pulled from Bitfinex.com API.
